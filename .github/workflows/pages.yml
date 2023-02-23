@@ -19,9 +19,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Create 404.html file
-        # run: echo "<html><body><h1>404 - Page not found</h1></body></html>" > ./dist/404.html
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
