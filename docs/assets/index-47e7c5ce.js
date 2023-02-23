@@ -1,0 +1,1 @@
+import{S as u,i as p,s as c,e as i,a as m,b as x,c as o,n as l,d as f}from"./index-bc9b9c2a.js";function d(r){let e,a,s;return{c(){e=i("h1"),e.textContent="aaa",a=m(),s=i("a"),s.textContent="test",x(s,"href","/about")},m(t,n){o(t,e,n),o(t,a,n),o(t,s,n)},p:l,i:l,o:l,d(t){t&&f(e),t&&f(a),t&&f(s)}}}class _ extends u{constructor(e){super(),p(this,e,null,d,c,{})}}export{_ as default};
